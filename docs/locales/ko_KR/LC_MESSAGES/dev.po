@@ -54,6 +54,7 @@ msgid ""
 "Install the OpenSSL library in the image for the kernel runner (if not "
 "installed)."
 msgstr ""
+"커널 작동을 위한 이미지를 OpenSSL 라이브러리에 설치하세요. (설치되지 않을때)"
 
 #: ../../dev/adding-kernels.rst:14
 msgid "Add metadata labels."
