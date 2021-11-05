@@ -34,6 +34,9 @@ msgid ""
 "Docker container images can be *imported* as Backend.AI kernels with "
 "appropriate metadata annotations."
 msgstr ""
+"Backend.AI는 제약된 리소스와 고립된 환경에서 사용자가 요청한 계산대로 실행될수 있도록"
+"도커 컨테이너를 지원합니다. 대부분의 도커 컨테이터 이미지가 적절한 메타데이터 주석을 가지고 있는"
+"Backend.AI 커널로부터 복사될 수 있습니다."
 
 #: ../../dev/adding-kernels.rst:10
 msgid ""
