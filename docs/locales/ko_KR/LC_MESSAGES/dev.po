@@ -87,6 +87,9 @@ msgid ""
 "via ZeroMQ, and manages user code execution and in-container service "
 "processes."
 msgstr ""
+"모든 Backend.AI 커널은 커널 러너라고 불리는 작은 데몬이 작동해야한다"
+"데몬은 ZeroMQ를 통한 호스트가 작동하는 Backend.AI 에이전트와 통신하고"
+"사용자 코드 실행과 컨테이너 내에 서비스 프로세스들을 관리한다."
 
 #: ../../dev/adding-kernels.rst:28
 msgid ""
