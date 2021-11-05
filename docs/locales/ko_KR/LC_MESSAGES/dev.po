@@ -58,19 +58,19 @@ msgstr ""
 
 #: ../../dev/adding-kernels.rst:14
 msgid "Add metadata labels."
-msgstr ""
+msgstr "메타데이터 레이블 추가"
 
 #: ../../dev/adding-kernels.rst:15
 msgid "Add service definition files."
-msgstr ""
+msgstr "서비스 정의 파일 추가"
 
 #: ../../dev/adding-kernels.rst:16
 msgid "Add a jail policy file."
-msgstr ""
+msgstr "정책 파일 추가"
 
 #: ../../dev/adding-kernels.rst:18
 msgid "Build a derivative image using the Dockerfile."
-msgstr ""
+msgstr "도커파일을 이용한 파생 이미지 구축"
 
 #: ../../dev/adding-kernels.rst:19
 msgid "Upload the image to a Docker registry to use with Backend.AI."
@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../dev/adding-kernels.rst:23
 msgid "Kernel Runner"
-msgstr ""
+msgstr "커널 러너"
 
 #: ../../dev/adding-kernels.rst:25
 msgid ""
