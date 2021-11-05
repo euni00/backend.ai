@@ -43,6 +43,7 @@ msgid ""
 "Prepare a Docker image based on Ubuntu 16.04/18.04, CentOS 7.6, or Alpine"
 " 3.8."
 msgstr ""
+"우분투 16.04/18.04, 센토스 7.6, 또는 알파인을 기반으로 한 도커 이미지를 준비합니다."
 
 #: ../../dev/adding-kernels.rst:11
 msgid "Create a Dockerfile that does:"
